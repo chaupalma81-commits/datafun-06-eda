@@ -22,3 +22,4 @@
 # Updates
 
 1. initial git commit with notes 1-5
+2. Notes 6-12
