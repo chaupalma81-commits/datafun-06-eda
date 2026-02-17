@@ -1,4 +1,22 @@
-# datafun-06-eda
+# datafun-06-eda 
+    A comprehesive list of notes and actions taken for this project.
+    Project is meant to be started from scratch to implement skills acquired throughout this class and used to better organize information and thought process.
+
+# Datadescription
+    Name: [Dowjones] https://fred.stlouisfed.org/series/M1109BUSM293NNBR
+
+    Count of Record: There are 649 counts
+
+    List or table of the columns and description of what each column holds
+
+    RangeIndex: 649 entries, 0 to 648
+    Data columns (total 2 columns):
+    #   Column  Non-Null Count  Dtype         
+    ---  ------  --------------  -----         
+    0   Date    649 non-null    datetime64[us] "Date of the stock index"
+    1   Price   649 non-null    float64        "Price of the stock index"
+    dtypes: datetime64[us](1), float64(1)
+
 
 # Notes and processes taken
 
@@ -17,9 +35,14 @@
 
 11. Created Notebook folder and starting notebook file
 12. Selected python environment Kernal for notebook file
-13. 
+13. Started notebook project, added beginning markdowns and code.
+14. Imported Library
+15. Loaded dataset
+    
 
 # Updates
 
 1. initial git commit with notes 1-5
 2. Notes 6-12
+3. Renamed notebook
+4. 
